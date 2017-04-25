@@ -1,0 +1,9 @@
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\bin\Debug\Rectangle.Tests.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\bin\Debug\Rectangle.Tests.pdb
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\bin\Debug\Figure.exe
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\bin\Debug\Figure.pdb
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\obj\Debug\Rectangle.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\obj\Debug\Rectangle.Tests.dll
+c:\Users\Student\documents\visual studio 2015\Projects\Figure\Rectangle.Tests\obj\Debug\Rectangle.Tests.pdb

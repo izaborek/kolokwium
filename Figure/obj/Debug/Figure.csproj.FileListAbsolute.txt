@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Figure\Figure\bin\Debug\Figure.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Figure\Figure\bin\Debug\Figure.exe
+c:\users\student\documents\visual studio 2015\Projects\Figure\Figure\bin\Debug\Figure.pdb
+c:\users\student\documents\visual studio 2015\Projects\Figure\Figure\obj\Debug\Figure.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Figure\Figure\obj\Debug\Figure.exe
+c:\users\student\documents\visual studio 2015\Projects\Figure\Figure\obj\Debug\Figure.pdb
